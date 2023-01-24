@@ -1,0 +1,34 @@
+#score{
+    color:aqua;
+    font-size: 30px;
+    letter-spacing: 2;
+    float: left;
+    margin-left: 100px;
+}
+#timer{
+    color:aqua;
+    font-size: 30px;
+    letter-spacing: 2;
+    float:right;
+    margin-right: 100px;
+}
+#heading{
+    color:darkorange;
+    font-size: 50px;
+    letter-spacing: 2;
+}
+#identification{
+    color:aquamarine;
+    font-size: 30px;
+    letter-spacing: 2;
+}
+#confidence{
+    color:aquamarine;
+    font-size: 30px;
+    letter-spacing: 2;
+}
+#sketch_to_be_drawn{
+    color:aquamarine;
+    font-size: 30px;
+    letter-spacing: 2;
+}
